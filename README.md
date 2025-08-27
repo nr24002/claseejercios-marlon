@@ -1,4 +1,4 @@
-- - - Ejercicio Clase 26/08/25 - - -
+------- Ejercicio Clase 26/08/25 -------
 
 En la clase main:
 1. Crear un objeto coche
